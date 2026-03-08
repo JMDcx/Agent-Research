@@ -67,7 +67,7 @@ DeerFlow has newly integrated the intelligent search and crawling toolset indepe
 1. **Clone the DeerFlow repository**
 
    ```bash
-   git clone https://github.com/bytedance/deer-flow.git
+   git clone https://github.com/JMDcx/Agent-Research.git
    cd deer-flow
    ```
 
