@@ -5,16 +5,6 @@
 
 DeerFlow (**D**eep **E**xploration and **E**fficient **R**esearch **Flow**) is an open-source **super agent harness** that orchestrates **sub-agents**, **memory**, and **sandboxes** to do almost anything — powered by **extensible skills**.
 
-https://github.com/user-attachments/assets/a8bcadc4-e040-4cf2-8fda-dd768b999c18
-
-> [!NOTE]
-> **DeerFlow 2.0 is a ground-up rewrite.** It shares no code with v1. If you're looking for the original Deep Research framework, it's maintained on the [`1.x` branch](https://github.com/bytedance/deer-flow/tree/main-1.x) — contributions there are still welcome. Active development has moved to 2.0.
-
-## Official Website
-
-Learn more and see **real demos** on our official website.
-
-**[deerflow.tech](https://deerflow.tech/)**
 
 ## InfoQuest
 
@@ -31,7 +21,6 @@ DeerFlow has newly integrated the intelligent search and crawling toolset indepe
 ## Table of Contents
 
 - [🦌 DeerFlow - 2.0](#-deerflow---20)
-  - [Official Website](#official-website)
   - [InfoQuest](#infoquest)
   - [Table of Contents](#table-of-contents)
   - [Quick Start](#quick-start)
